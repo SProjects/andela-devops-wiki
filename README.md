@@ -6,7 +6,7 @@ This guide is a living document whose content aims to help novices, hobbyist and
 ## Technologies
 - [Readthedocs](https://docs.readthedocs.io/en/latest/getting_started.html)
 - [Sphinx](https://docs.readthedocs.io/en/latest/getting_started.html#in-rst)
-- [reStrucutredText](https://www.youtube.com/watch?feature=player_embedded&v=oJsUvBQyHBs) OR [Markdown](https://docs.readthedocs.io/en/latest/getting_started.html#in-markdown)
+- [reStrucutredText](https://matplotlib.org/sampledoc/cheatsheet.html) OR [Markdown](https://docs.readthedocs.io/en/latest/getting_started.html#in-markdown)
 
 ## Contributing
 Any one with knowledge to add to this guide is welcome to fork the repository anf update any area of interest i.e. networking, shell scripting. Make sure to add your content to a proper heading to make it easy for people reading the guide. These are some of the things to keep in mind as you do this;
